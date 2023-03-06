@@ -83,7 +83,7 @@ The RingCentral Video Client SDK is currently in beta. The latest version suppor
         <td><i class="fas fa-check text-success"></i></td>
       </tr>
       <tr>
-        <th scope="row">HIPPA compliance</th>
+        <th scope="row">HIPAA compliance</th>
         <td><i class="fas fa-check text-success"></i></td>
         <td><i class="fas fa-check text-success"></i></td>
       </tr>
