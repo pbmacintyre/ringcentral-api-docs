@@ -86,7 +86,7 @@ The RingCentral Video Client SDK is currently in beta. The latest version suppor
         <td class="text-success ps-5">✓</td>
       </tr>
       <tr>
-        <th scope="row">HIPPA compliance</th>
+        <th scope="row">HIPAA compliance</th>
         <td class="text-success ps-5">✓</td>
         <td class="text-success ps-5">✓</td>
       </tr>
