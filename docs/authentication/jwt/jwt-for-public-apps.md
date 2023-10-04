@@ -50,4 +50,4 @@ To streamline this process and help the customer create a JWT credential restric
 https://developers.ringcentral.com/console/my-credentials/create?client_id=<ENTER YOUR CLIENT ID>
 ```
 
-Then, create a button your application that prompts the user to create a JWT token at RingCentral using the link above. Then instruct them to copy and paste the credential created and send it to you. 
+Then, create a button in your application that prompts the user to create a JWT token at RingCentral using the link above. Then instruct them to copy and paste the credential created and send it to you. 
