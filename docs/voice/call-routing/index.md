@@ -29,7 +29,7 @@ When a call is blocked, developers can designate a recorded message to direct th
 
 Call Forwarding rules allow a developer to specify for an extension within an organization to which calls will be automatically forwarded to when another extension is called. This is a good solution for individuals, for example, to say, "while I am out of town, please forward my calls to Janice."
 
-Call Flipping specifically applies to active calls, and allows a call to be instantly and transparently transferred to another phone number. For example, I may be on my desk phone and need to get in my car to head home - in which case I would flip the call from my desk phone to my mobile phone without the person on the other end being away the transfer took place.
+Call Flipping specifically applies to active calls, and allows a call to be instantly and transparently transferred to another phone number. For example, I may be on my desk phone and need to get in my car to head home - in which case I would flip the call from my desk phone to my mobile phone without the person on the other end being aware the transfer took place.
 
 * [Learn how to set call forwarding for your business hours in the Admin Console](https://support.ringcentral.com/article/9758.html?language=en_US)
 
